@@ -1,0 +1,14 @@
+//	注释 用双斜杠 —— "//"
+//	添加打包结束后要删除的平台相关的内容
+//	如	Assets/Plugins/System.EnterpriseServices.dll
+
+//	Add Todo......
+Assets/Plugins/System.EnterpriseServices.dll
+Assets/Plugins/CommonUI_Unity3D_Win32.dll
+Assets/Plugins/win32
+Assets/Pro Standard Assets/CommonUI_Unity3D/Impl/Win32
+Assets/Plugins/ICE-3.5.1-Lite
+Assets/StreamingAssets/MPQLocal/Android
+Assets/StreamingAssets/MPQLocal/PC
+
+

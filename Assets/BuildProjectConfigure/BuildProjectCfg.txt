@@ -1,0 +1,12 @@
+//	注释 用双斜杠 —— "//"
+//	添加要打包的场景路径 如
+//	Assets/Scene/Logo.unity
+
+//	Add Todo......
+Assets/Scene/SplashScene.unity
+Assets/Scene/Logo.unity
+Assets/Scene/PreStart.unity
+Assets/Scene/RegistScene.unity
+Assets/Scene/Stage.unity
+Assets/Scene/Empty.unity
+Assets/test_client.unity

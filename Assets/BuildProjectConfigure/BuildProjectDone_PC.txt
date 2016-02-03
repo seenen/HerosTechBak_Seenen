@@ -1,0 +1,7 @@
+//	注释 用双斜杠 —— "//"
+//	添加打包结束后要删除的平台相关的内容
+//	如	Assets/Plugins/System.EnterpriseServices.dll
+
+//	Add Todo......
+
+

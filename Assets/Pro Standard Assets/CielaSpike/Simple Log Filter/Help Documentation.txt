@@ -1,0 +1,56 @@
+Simple Log Filter
+=================
+
+- How to get support:
+
+    Send an email to 
+
+        ciela.spike@gmail.com
+
+    I'll answer your question as soon as possible.
+
+- How to open the window:
+
+    After you download the asset, click Window menu, then click Log Filter to open the tool.
+
+- How to get quick help:
+
+    In the context menu (right click window's tab or click the upper right corner),
+    click "Help" menu item, then the quick help will be displayed.
+
+- How to use filter:
+
+    Type in the filter bar. If you want to go back to full context, select a log entry, then click cancel button on the right or simply press ESC.
+
+- How to use custom tag:
+
+    Use standard unity log with a header like 'Debuger.LogError("[<tag>]Some Message")'.
+
+- How to color your log:
+
+    Log like 'Debuger.Log("[<tag>:<color-code>]Some Message")' or 'Debuger.Log("[:<color-code>]Some Message")'.
+    * Turn off all color by clicking "Color" button on the toolbar.
+    
+    Color Codes:
+
+    g : Green
+    b : Blue
+    c : Cyan
+    y : yellow
+    o : Orange
+    r : Red
+    m : Magenta
+
+- How to use stack trace:
+
+    Select a log, then its call stack will be shown below.
+    If a file name is available, double click one of these stack frame will open the code file.
+    * See original unity output by clicking "Plain Text" button on the message bar.
+
+- How to adjust message font size:
+
+    On message bar, click "A" button to increase font size or "a" button to decrease font size.
+
+- How to reset Total Compiling Time:
+
+    In context menu, click "Reset Compile Time" menu item.
